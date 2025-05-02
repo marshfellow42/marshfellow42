@@ -1,6 +1,6 @@
 # Hi There <img width="32px" src="../Assets/wave.gif" />
 
-My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 5th semester of high school.
+My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 6th semester of high school.
 
 - 🔭 I’m currently studying **Web Development**
 
@@ -8,13 +8,15 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 - 🌱 I’m currently learning **Japanese**
 
-- ☁️ I'm more suited to **Back-End** work, but I also work on **Full Stack** when necessary
+- ☁️ I work in projects as a **Full Stack**
 
 ## Technical Skills
 
 ### Programming Languages
 <img align="left" title="Python" width="30px" style="padding-right:10px;" src="../Assets/python-original.svg" />
 <img align="left" title="Java" width="30px" style="padding-right:10px;" src="../Assets/java-original.svg"/>
+<img align="left" title="Swift" width="30px" style="padding-right:10px;" src="../Assets/swift-original.svg"/>
+<img align="left" title="Dart" width="30px" style="padding-right:10px;" src="../Assets/dart-original.svg"/>
 
 <br/>
 
@@ -23,6 +25,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ### Web Languages
 <img align="left" title="HTML" width="30px" style="padding-right:10px;" src="../Assets/html5-original.svg" />
 <img align="left" title="CSS" width="30px" style="padding-right:10px;" src="../Assets/css3-original.svg" />
+<img align="left" title="Javascript" width="30px" style="padding-right:10px;" src="../Assets/javascript-original.svg" />
 <img align="left" title="PHP" width="50px" style="padding-right:10px;" src="../Assets/PHP-logo.svg" />
 
 <br/>
@@ -31,6 +34,11 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 ### Frameworks
 <img align="left" title="Laravel" width="30px" style="padding-right:10px;" src="../Assets/laravel-original.svg" />
+<img align="left" title="ExpressJS" width="30px" style="padding-right:10px; filter: invert(1) brightness(100%) grayscale(100%);" src="../Assets/express-original.svg" />
+<img align="left" title="Flutter" width="30px" style="padding-right:10px;" src="../Assets/flutter-original.svg" />
+<img align="left" title="Node.js" width="30px" style="padding-right:10px;" src="../Assets/nodejs-original.svg" />
+<img align="left" title="Bootstrap CSS" width="30px" style="padding-right:10px;" src="../Assets/bootstrap-original.svg" />
+<img align="left" title="SwiftUI" width="30px" style="padding-right:10px;" src="../Assets/swiftui.svg" />
 
 <br/>
 
@@ -39,6 +47,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ### Operating Systems
 <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="../Assets/windows8-original.svg" />
 <img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="../Assets/ubuntu-4-logo-svg-vector.svg" />
+<img align="left" title="Arch Linux" width="30px" style="padding-right:10px;" src="../Assets/archlinux-original.svg" />
 
 <br/>
 
@@ -54,6 +63,8 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ### IDE
 <img align="left" title="Eclipse" width="30px" style="padding-right:10px;" src="../Assets/NicePng_eclipse-png_2648074.png" />
 <img align="left" title="Netbeans" width="27px" style="padding-right:10px;" src="../Assets/Apache_NetBeans_Logo.svg" />
+<img align="left" title="Android Studio" width="27px" style="padding-right:10px;" src="../Assets/androidstudio-original.svg" />
+<img align="left" title="XCode" width="27px" style="padding-right:10px;" src="../Assets/xcode-original.svg" />
 
 <br/>
 
@@ -63,7 +74,8 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 <img align="left" title="Canva" width="30px" style="padding-right:10px;" src="../Assets/Canva_icon_2021.svg" />
 <img align="left" title="Figma" width="20px" style="padding-right:10px;" src="../Assets/Figma-logo.svg" />
 <img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="../Assets/2023_Obsidian_logo.svg" />
-<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="../Assets/The_GIMP_icon_-_gnome.svg" />
+<img align="left" title="Notion" width="30px" style="padding-right:10px;" src="../Assets/notion-original.svg" />
+<img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="../Assets/gimp-logo.svg" />
 
 <br/>
 
@@ -72,6 +84,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ### Databases
 <img align="left" title="MySQL" width="40px" style="padding-right:10px;" src="../Assets/mysql-original-wordmark.svg" />
 <img align="left" title="SQLite" width="30px" style="padding-right:10px;" src="../Assets/Sqlite-square-icon.svg" />
+<img align="left" title="MongoDB" width="30px" style="padding-right:10px;" src="../Assets/mongodb-original.svg" />
 
 <br/>
 
@@ -81,6 +94,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 <img align="left" title="Git" width="30px" style="padding-right:10px;" src="../Assets/git-original.svg" />
 <img align="left" title="VirtualBox" width="30px" style="padding-right:10px;" src="../Assets/Virtualbox_logo.png" />
 <img align="left" title="Raspberry Pi" width="30px" style="padding-right:10px;" src="../Assets/raspberrypi-original.svg" />
+<img align="left" title="Arduino" width="30px" style="padding-right:10px;" src="../Assets/arduino-original.svg" />
 <img align="left" title="Docker" width="40px" style="padding-right:10px;" src="../Assets/docker-original.svg" />
 
 <br/>
@@ -103,14 +117,8 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 ## Coding Activity
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=en&theme=algolia&hide_border=true" /></p>
 
-## Where to also find me
-
-<div align="left">
-<a href="mailto:leandrocandido6@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" style="padding-right:10px" ></a> 
-</div>
-
 ### Visitors Count
 ![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square&label=Profile+Views)
 
 #### Read this in other languages
-<kbd>[<img title="Português" src="../Assets/brasil.png" width="22">](https://github.com/Marshfellow42)</kbd>
+<kbd>[<img title="Português" src="../Assets/brasil.png" width="22">](https://github.com/marshfellow42)</kbd>
