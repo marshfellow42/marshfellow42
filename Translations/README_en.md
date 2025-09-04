@@ -1,14 +1,12 @@
 # Hi There <img width="32px" src="../Assets/wave.gif" />
 
-My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Ceará (IFCE), currently at the 6th semester of high school.
+My name is Leandro Cândido. I'm a former IT student at the Instituto Federal do Ceará (IFCE).
 
-- 🔭 I’m currently studying **Web Development**
-
-- 💬 My current hobbies are reading **manga** and working on new project ideas
+- 💬 My current hobbies are reading **manga** and working on new projects
 
 - 🌱 I’m currently learning **Japanese**
 
-- ☁️ I work in projects as a **Full Stack**
+- ☁️ I work in projects as a **Full Stack** and as a **Tech Lead**
 
 ## Technical Skills
 
@@ -34,6 +32,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 ### Frameworks
 <img align="left" title="Laravel" width="30px" style="padding-right:10px;" src="../Assets/laravel-original.svg" />
+<img align="left" title="React" width="30px" style="padding-right:10px;" src="../Assets/react-original.svg" />
 <img align="left" title="ExpressJS" width="30px" style="padding-right:10px; filter: invert(1) brightness(100%) grayscale(100%);" src="../Assets/express-original.svg" />
 <img align="left" title="Flutter" width="30px" style="padding-right:10px;" src="../Assets/flutter-original.svg" />
 <img align="left" title="Node.js" width="30px" style="padding-right:10px;" src="../Assets/nodejs-original.svg" />
@@ -48,6 +47,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="../Assets/windows8-original.svg" />
 <img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="../Assets/ubuntu-4-logo-svg-vector.svg" />
 <img align="left" title="Arch Linux" width="30px" style="padding-right:10px;" src="../Assets/archlinux-original.svg" />
+<img align="left" title="Kali Linux" width="30px" style="padding-right:10px;" src="../Assets/icons8-kali-linux.svg" />
 
 <br/>
 
@@ -55,6 +55,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 
 ### Text Editor
 <img align="left" title="VSCodium" width="30px" style="padding-right:10px;" src="../Assets/paulo22s.png" />
+<img align="left" title="Neovim" width="30px" style="padding-right:10px;" src="../Assets/neovim-original.svg" />
 
 <br/>
 
@@ -76,6 +77,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 <img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="../Assets/2023_Obsidian_logo.svg" />
 <img align="left" title="Notion" width="30px" style="padding-right:10px;" src="../Assets/notion-original.svg" />
 <img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="../Assets/gimp-logo.svg" />
+<img align="left" title="Krita" width="30px" style="padding-right:10px;" src="../Assets/Calligrakrita-base.svg" />
 
 <br/>
 
@@ -85,6 +87,7 @@ My name is Leandro Cândido. I'm an IT student at the Instituto Federal do Cear�
 <img align="left" title="MySQL" width="40px" style="padding-right:10px;" src="../Assets/mysql-original-wordmark.svg" />
 <img align="left" title="SQLite" width="30px" style="padding-right:10px;" src="../Assets/Sqlite-square-icon.svg" />
 <img align="left" title="MongoDB" width="30px" style="padding-right:10px;" src="../Assets/mongodb-original.svg" />
+<img align="left" title="Firebase" width="30px" style="padding-right:10px;" src="../Assets/firebase-original.svg" />
 
 <br/>
 

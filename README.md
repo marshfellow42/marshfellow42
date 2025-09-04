@@ -1,13 +1,11 @@
 # Olá <img width="32px" src="Assets/wave.gif" />
-Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto Federal do Ceará (IFCE), atualmente no 6° semestre do ensino médio.
+Meu nome é Leandro Cândido, eu sou um ex-aluno de informática do Instituto Federal do Ceará (IFCE).
 
-- 🔭 Atualmente eu estou estudando **Desenvolvimento Web**
-
-- 💬 Meus hobbies atuais são ler **mangá** e trabalhar em ideias para projetos novos
+- 💬 Meus hobbies atuais são ler **mangá** e trabalhar em projetos novos
 
 - 🌱 Atualmente estou aprendendo **Japonês**
 
-- ☁️ Eu trabalho em projetos como um **Full Stack**
+- ☁️ Eu trabalho em projetos como um **Full Stack** e como um **Tech Lead**
 
 ## Habilidades Técnicas
 
@@ -33,6 +31,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 ### Frameworks
 <img align="left" title="Laravel" width="30px" style="padding-right:10px;" src="Assets/laravel-original.svg" />
+<img align="left" title="React" width="30px" style="padding-right:10px;" src="Assets/react-original.svg" />
 <img align="left" title="ExpressJS" width="30px" style="padding-right:10px; filter: invert(1) brightness(100%) grayscale(100%);" src="Assets/express-original.svg" />
 <img align="left" title="Flutter" width="30px" style="padding-right:10px;" src="Assets/flutter-original.svg" />
 <img align="left" title="Node.js" width="30px" style="padding-right:10px;" src="Assets/nodejs-original.svg" />
@@ -47,6 +46,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 <img align="left" title="Windows" width="30px" style="padding-right:10px;" src="Assets/windows8-original.svg" />
 <img align="left" title="Ubuntu" width="30px" style="padding-right:10px;" src="Assets/ubuntu-4-logo-svg-vector.svg" />
 <img align="left" title="Arch Linux" width="30px" style="padding-right:10px;" src="Assets/archlinux-original.svg" />
+<img align="left" title="Kali Linux" width="30px" style="padding-right:10px;" src="Assets/icons8-kali-linux.svg" />
 
 <br/>
 
@@ -54,6 +54,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 
 ### Editor de Texto
 <img align="left" title="VSCodium" width="30px" style="padding-right:10px;" src="Assets/paulo22s.png" />
+<img align="left" title="Neovim" width="30px" style="padding-right:10px;" src="Assets/neovim-original.svg" />
 
 <br/>
 
@@ -76,6 +77,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 <img align="left" title="Obsidian" width="30px" style="padding-right:10px;" src="Assets/2023_Obsidian_logo.svg" />
 <img align="left" title="Notion" width="30px" style="padding-right:10px;" src="Assets/notion-original.svg" />
 <img align="left" title="GIMP" width="30px" style="padding-right:10px;" src="Assets/gimp-logo.svg" />
+<img align="left" title="Krita" width="30px" style="padding-right:10px;" src="Assets/Calligrakrita-base.svg" />
 
 <br/>
 
@@ -85,6 +87,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 <img align="left" title="MySQL" width="40px" style="padding-right:10px;" src="Assets/mysql-original-wordmark.svg" />
 <img align="left" title="SQLite" width="30px" style="padding-right:10px;" src="Assets/Sqlite-square-icon.svg" />
 <img align="left" title="MongoDB" width="30px" style="padding-right:10px;" src="Assets/mongodb-original.svg" />
+<img align="left" title="Firebase" width="30px" style="padding-right:10px;" src="Assets/firebase-original.svg" />
 
 <br/>
 
@@ -117,7 +120,7 @@ Meu nome é Leandro Cândido, eu sou um estudante de informática do Instituto F
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marshfellow42&show_icons=true&locale=pt-br&theme=algolia&hide_border=true" alt="marshfellow42" /></p>
 
 ### Contador de visitantes
-![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square&label=Vizualizações+do+perfil)
+![](https://komarev.com/ghpvc/?username=marshfellow42&style=flat-square&label=Visualizações+do+perfil)
 
 #### Leia isso em outras línguas
 <kbd>[<img title="Inglês" src="Assets/usa.png" width="22">](Translations/README_en.md)</kbd>
